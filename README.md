@@ -1,2 +1,7 @@
-# JLU-data-structure-course-PTA-
-数据结构PTA课程题解，于2023年完成
+# JLU-data-structure-course-PTA
+吉林大学数据结构PTA课程题解，于2023年完成。
+
+大二上学期包含简单数据结构如：哈夫曼树、并查集、KMP 等。
+
+大二上学期包含相对复杂的数据结构如：红黑树、AVL、前缀树等。
+
